@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo.png" width="140" alt="Rifd logo">
+<img src="images/logo.png" width="240" alt="Rifd logo">
 
 # Rifd · رِفد
 
