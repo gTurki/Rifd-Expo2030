@@ -14,7 +14,7 @@
 
 <a href="https://rifd-frontend.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Platform-Open_Rifd-40B89C?style=for-the-badge" alt="Live Platform"></a>
 &nbsp;
-<a href="https://github.com/gTurki/Rifd"><img src="https://img.shields.io/badge/Backend_Repo-Spring_Boot-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repository"></a>
+<a href="https://github.com/gTurki/Rifd-backend"><img src="https://img.shields.io/badge/Backend_Repo-Spring_Boot-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repository"></a>
 &nbsp;
 <a href="https://github.com/gTurki/Rifd-frontend"><img src="https://img.shields.io/badge/Frontend_Repo-React-61DAFB?style=for-the-badge&logo=github&logoColor=black" alt="Frontend Repository"></a>
 
@@ -46,7 +46,7 @@
 | | Link |
 |---|---|
 | 🌐 **Live platform** | **[rifd-frontend.vercel.app](https://rifd-frontend.vercel.app/)** |
-| 🧠 **Backend repository** (Spring Boot) | **[github.com/gTurki/Rifd](https://github.com/gTurki/Rifd)** |
+| 🧠 **Backend repository** (Spring Boot) | **[github.com/gTurki/Rifd-backend](https://github.com/gTurki/Rifd-backend)** |
 | 🖥️ **Frontend repository** (React) | **[github.com/gTurki/Rifd-frontend](https://github.com/gTurki/Rifd-frontend)** |
 | ⚙️ **Backend API** | [rifd-production.up.railway.app](https://rifd-production.up.railway.app) |
 
@@ -187,11 +187,11 @@ A separate **fire scenario** shows smart cameras detecting smoke and fire with A
 
 ## 🚀 Getting Started
 
-**Backend** · [github.com/gTurki/Rifd](https://github.com/gTurki/Rifd)
+**Backend** · [github.com/gTurki/Rifd-backend](https://github.com/gTurki/Rifd-backend)
 
 ```bash
-git clone https://github.com/gTurki/Rifd.git
-cd Rifd
+git clone https://github.com/gTurki/Rifd-backend.git
+cd Rifd-backend
 ./mvnw spring-boot:run
 ```
 
