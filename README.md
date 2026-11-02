@@ -10,6 +10,8 @@
 
 ### من 40 تنبيه إلى 3 حوادث · From 40 alerts to 3 incidents
 
+<img src="https://img.shields.io/badge/🥉_3rd_Place-Expo_2030_Riyadh_Hackathon-CD7F32?style=for-the-badge" alt="3rd Place, Expo 2030 Riyadh Hackathon">
+
 <br>
 
 <a href="https://rifd-frontend.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Platform-Open_Rifd-40B89C?style=for-the-badge" alt="Live Platform"></a>
@@ -37,7 +39,7 @@
 
 ---
 
-> **Expo 2030 Riyadh Challenge** · Track 3: Exhibition Operations, Safety & Security · **Challenge 3.6**
+> **Expo 2030 Riyadh Hackathon** · 🥉 **3rd place** · Track 3: Exhibition Operations, Safety & Security · **Challenge 3.6**
 >
 > During a live event, the operations center receives hundreds of alerts, radio messages, service requests and system notifications from separate sources, and struggles to tell what needs immediate action. **Rifd** brings them all into one screen, lets AI classify and merge them into incidents on the Expo map, recommends the approved response, and dispatches the nearest qualified staff member.
 
@@ -246,5 +248,5 @@ Set `VITE_API_URL` in `.env` to the backend URL.
 ---
 
 <div align="center">
-<sub>Built for the Expo 2030 Riyadh Challenge · Tuwaiq Academy · October 2026</sub>
+<sub>Built for the Expo 2030 Riyadh Hackathon · 🥉 3rd place · Tuwaiq Academy · October 2026</sub>
 </div>
